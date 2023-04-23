@@ -1,8 +1,7 @@
 {
         "anytime" : [
-                "Me gustas cuando callas porque estás como ausente",
-                "Puede que mi opinión haya cambiado, pero no el hecho de que estoy en lo cierto",
-                "Jamás había visto algo tan maravilloso"
+                "Hola Paulita",
+                "Jamás había visto algo tan bochechoso"
         ],
         "morning" : [
                 "Buenos días Paulita",
@@ -15,8 +14,6 @@
                 "Buenas tardes camarada"
         ],
         "evening" : [
-                "Buenas noches Palusilusi",
-                "Buenas noches y buena suerte",
-                "Cierro por hoy, mañana nos vemos"
+                "Buenas noches Palusilusi"
         ]
 }
