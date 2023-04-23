@@ -1,0 +1,22 @@
+{
+        "anytime" : [
+                "Me gustas cuando callas porque estás como ausente",
+                "Puede que mi opinión haya cambiado, pero no el hecho de que estoy en lo cierto",
+                "Jamás había visto algo tan maravilloso"
+        ],
+        "morning" : [
+                "Buenos días Paulita",
+                "Que sea leve la mañana compañero humano",
+                "Buenos días y mucha mierda"
+        ],
+        "afternoon" : [
+                "Buenas tardes",
+                "Pues parece que se ha quedado buena tarde",
+                "Buenas tardes camarada"
+        ],
+        "evening" : [
+                "Buenas noches",
+                "Buenas noches y buena suerte",
+                "Cierro por hoy, mañana nos vemos"
+        ]
+}
